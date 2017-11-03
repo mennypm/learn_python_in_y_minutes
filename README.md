@@ -1,1 +1,1 @@
-# learn_python_in_y_minutes
+# Learn Python in Y minutes
